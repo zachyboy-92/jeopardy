@@ -1,0 +1,70 @@
+.score-container {
+  margin-bottom: 15px;
+}
+
+.holder {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: goldenrod;
+}
+
+.score {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: white;
+  padding-left: 10px;
+}
+
+/* Score buttons */
+.btn {
+  width: 80px;
+  height: 30px;
+  border-radius: 10px;
+  outline: none;
+  margin-right: 10px;
+}
+
+.increase {
+  background-color: tomato;
+}
+
+.decrease {
+  background-color: cornflowerblue;
+}
+
+.reset {
+  background-color: red;
+}
+
+.play-header {
+  font-size: 1.6rem;
+  color: goldenrod;
+}
+
+.question-container {
+  margin: 1rem 10%;
+}
+
+.question-holder {
+  margin: 10px auto;
+}
+
+.question {
+  color: white;
+  font-size: 1.2rem;
+}
+
+/* answer button */
+.question-btn {
+  width: 120px;
+  background-color: steelblue;
+}
+
+.answer-btn {
+  background-color: tomato;
+}
+
+.answer-holder {
+  font-size: 1.5rem;
+  color: white;
+}
